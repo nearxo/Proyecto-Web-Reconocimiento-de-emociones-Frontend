@@ -1,9 +1,6 @@
-# Primeros pasos con Create React App
+# Pagina que implementa una inteligencia artificial para el reconocimiento de emociones
 
-Este proyecto se inició con [Create React App](https://github.com/facebook/create-react-app).
-
-## Scripts disponibles
-
+## Scripts para acceder al proyecto y desplegarlo 
 En el directorio del proyecto, puedes ejecutar:
 
 ### `npm start`
@@ -12,7 +9,7 @@ Ejecuta la aplicación en modo de desarrollo.\
 Abre [http://localhost:3000](http://localhost:3000) para verla en tu navegador.
 
 La página se volverá a cargar cuando realices cambios.\
-También puedes ver errores de lint en la consola.
+También puedes ver errores de link en la consola.
 
 ### `npm test`
 
@@ -28,6 +25,8 @@ La compilación se minimiza y los nombres de archivo incluyen los hashes.\
 ¡Tu aplicación está lista para implementarse!
 
 Consulta la sección sobre [implementación](https://facebook.github.io/create-react-app/docs/deployment) para obtener más información.
+
+Este proyecto se inició con [Create React App](https://github.com/facebook/create-react-app).
 
 ### `npm run eject`
 
